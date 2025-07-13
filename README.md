@@ -1,5 +1,5 @@
 # 👋 Hello Coders  
-## I'm Ahmed Harb — AI Student & Lifelong Learner 🤖
+## I'm Ahmed Harb — AI Student 🤖
 
 ---
 
@@ -13,11 +13,15 @@
 
 ## ⚒️ Tools I Use
 
+<a href="https://instagram.com/ahmed._7arb">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 ```dart
 class About extends Me {
   const myTools = {
-    "Languages": {"Python", "C++", "Java", "Dart", "JavaScript"},
-    "Markup & Others": {"HTML", "CSS", "Markdown", "JSON", "Bash"},
+    "Languages": {"Python", "C++", "Java"},
+    "Markup & Others": {"HTML", "CSS"},
     "Databases": {"Firebase", "SQLite"},
     "Editors": {"VS Code", "Neovim", "Sublime Text"},
     "Platforms": {"GNU/Linux", "Windows"},
