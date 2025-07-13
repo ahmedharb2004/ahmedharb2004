@@ -1,31 +1,30 @@
-Hi, I'm Aral Roca
-Donate
-logo
+Hello Coders
+Workspace
 
-twitter    stackoverflow    linkedin    email
+Busy coding & Vibing to :
+Totals Hits Hits telegram badge
 
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others.
+tools_I_use semicolon Go Flutter React Native Java Dart C++ C Python Javascript Json Html Css Bash Markdown GNU/Linux Vscode Sublime Text Neovim Firebase Sqlite Git Photoshop Lightroom Gimp Figma Flutter Heroku Chakra-UI
 
-Top language used in my repos
-Languages used in my public repos - big fan of JavaScript 😛
+// tools_I_use organized
 
-A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles.
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+GIF   I’m currently learning Flutter & WebDev.Penguin
+    I like exploring GNU/Linux.
+   Ask me about Pc building, Movies, or anything.
+   Find me on Telegram: 丂𝙋⚡乂𝘿
+      Fun fact: Banging your head against a wall for one hour burns 150 calories.
+  
+More stats
+Code Cycle
 
-
-📖   aralroca.com: Last 5 articles
-HTML Streaming Over the Wire 🥳: A Deep Dive
-SPA-Like Navigation Preserving Web Component State
-Power of Partial Prerendering with Bun
-HTML Streaming and DOM Diffing Algorithm
-👋 Say Goodbye to Spread Operator: Use Default Composer
-
-🧡   My passions
-Technology and software
-Science
-Machine learning (my articles about it)
-Books (goodreads)
-Parkour (instagram, youtube)
-Nutrition
-Nature
-
-👉   Subscribe to the newsletter
+Broken system!       It's working!       It's working but you don't know how!
