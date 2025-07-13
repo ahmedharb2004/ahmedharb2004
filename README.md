@@ -1,30 +1,26 @@
-Hello Coders
-Workspace
+# 👋 Hello Coders  
+## I'm Ahmed Harb — AI Student 🤖
 
-Busy coding & Vibing to :
-Totals Hits Hits telegram badge
+---
 
-tools_I_use semicolon Go Flutter React Native Java Dart C++ C Python Javascript Json Html Css Bash Markdown GNU/Linux Vscode Sublime Text Neovim Firebase Sqlite Git Photoshop Lightroom Gimp Figma Flutter Heroku Chakra-UI
+🎓 **Student at the Faculty of Artificial Intelligence**  
+🚀 Exploring the fields of **Machine Learning**, **Object-Oriented Programming**, and **Competitive Programming**  
+💻 Currently learning **Python**, **C++**, and diving into **Web Development**  
+🎯 Passionate about solving real-world problems and building projects to learn by doing  
+🏁 ICPC Participant | 💡 Always curious | 🎯 Learning without limits  
 
-// tools_I_use organized
+---
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Firebase", "Sqlite" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+## ⚒️ Tools I Use
+
+```dart
+class About extends Me {
+  const myTools = {
+    "Languages": {"Python", "C++", "Java", "Dart", "JavaScript"},
+    "Markup & Others": {"HTML", "CSS", "Markdown", "JSON", "Bash"},
+    "Databases": {"Firebase", "SQLite"},
+    "Editors": {"VS Code", "Neovim", "Sublime Text"},
+    "Platforms": {"GNU/Linux", "Windows"},
+    "OtherTools": {"Git", "Figma", "Photoshop", "GIMP", "Lightroom"}
   };
 }
-GIF   I’m currently learning Flutter & WebDev.Penguin
-    I like exploring GNU/Linux.
-   Ask me about Pc building, Movies, or anything.
-   Find me on Telegram: 丂𝙋⚡乂𝘿
-      Fun fact: Banging your head against a wall for one hour burns 150 calories.
-  
-More stats
-Code Cycle
-
-Broken system!       It's working!       It's working but you don't know how!
